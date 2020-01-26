@@ -1,0 +1,14 @@
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\bin\Debug\Scraper.exe.config
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\bin\Debug\Scraper.exe
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\bin\Debug\Scraper.pdb
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.csprojAssemblyReference.cache
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.Properties.Resources.resources
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.csproj.GenerateResource.cache
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.exe
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.pdb
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.EntryForm.resources
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.OutputForm.resources
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\bin\Debug\Scraper.exe.manifest
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\bin\Debug\Scraper.application
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.exe.manifest
+C:\Users\carlo\Desktop\C#\ScraperRepo\Scraper\obj\Debug\Scraper.application
